@@ -8,4 +8,4 @@ class SortedList {
     sum() {}
 }
 
-module.exports = SortedList;
+export default SortedList;
