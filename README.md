@@ -4,7 +4,7 @@
 
 
 1. Realiza un fork del repositorio `github.com/curso-backend-web/intro-node.git`
-2. Clona el repositorio a tu PC desde **TÚ USUARIO**
+2. Clona el repositorio a tu PC desde **TU USUARIO**
 3. Realiza el ejercicio, en este caso practicarás con objetos y clases.
 
 4. Una vez completado lanza los siguientes comandos:
