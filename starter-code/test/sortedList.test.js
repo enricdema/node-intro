@@ -61,7 +61,7 @@ describe('SortedList', () => {
          }
        });
       });
-/*
+
     describe('#max()', ()=> {
 
       test('should return an EmptyList error if there is no element in the list', () => {
@@ -77,7 +77,6 @@ describe('SortedList', () => {
          expect(sl.max()).toBe(20);
        });
      });
-
     describe('#min()', ()=> {
 
     test('should return an EmptyList exception if there is no element in the list', () => {
@@ -127,5 +126,5 @@ describe('SortedList', () => {
          sl.add(3);
          expect(sl.sum()).toBe(6);
        });
-      });*/
+      });
 });
